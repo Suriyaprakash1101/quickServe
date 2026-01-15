@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "heading": "Get Help Fast. Give Service Easily.",
+    "sub": "Find skilled people near you, Or offer your service and earn money.",
+    "getStarted": "Get Started",
+    "offerService": "Offer service"
+  },
+  "popularServices": {
+    "title": "Popular Services",
+    "subtitle": "Choose the service as you need...",
+    "softwareIT": "Software & IT",
+    "design": "Design",
+    "cyberSecurity": "Cyber Security",
+    "homeRepair": "Home Repair",
+    "electrical": "Electrical",
+    "plumbing": "Plumbing",
+    "moreServices": "More Services"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": {
+      "1": { "title": "Search", "desc": "Find professionals by service and location quickly" },
+      "2": { "title": "Choose", "desc": "Select the right person based on skills and reviews" },
+      "3": { "title": "Pay", "desc": "Agree on hourly, daily, or monthly payment terms" },
+      "4": { "title": "Done", "desc": "Work completed, review the service and provider" }
+    }
+  },
+  "infoStrip": "QuickServe connects people who need help with people who can help.",
+  "flexiblePayment": {
+    "title": "Flexible Payment",
+    "hourly": { "title": "Hourly", "desc": "Ideal for small tasks and quick fixes" },
+    "daily": { "title": "Daily", "desc": "Perfect for one-day projects and assignments" },
+    "weekly": { "title": "Weekly", "desc": "Suitable for multi-day jobs requiring focus" },
+    "monthly": { "title": "Monthly", "desc": "Best for long-term projects and contracts" }
+  },
+  "whyChoose": {
+    "title": "Why Choose QuickServe?",
+    "items": {
+      "easyToUse": { "title": "Easy to use", "desc": "Our platform is designed for simplicity, connecting you with services in just a few clicks." },
+      "trustedPeople": { "title": "Trusted People", "desc": "Access a community of vetted and highly-rated service providers." },
+      "flexiblePay": { "title": "Flexible Pay", "desc": "Choose payment options that fit your project needs and budget." },
+      "safePayment": { "title": "Safe Payment", "desc": "Secure payment system ensures your transactions are protected and reliable." },
+      "nearbyServices": { "title": "Nearby Services", "desc": "Find local experts who are available right in your neighborhood." }
+    }
+  }
+}
